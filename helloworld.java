@@ -7,6 +7,7 @@ public class HelloWorld {
 	System.out.println("Hello Git");
 	//Prints "Hello.Helo
 	System.out.println("hello java");
+	System.out.println("hello");
     }
 
 }
